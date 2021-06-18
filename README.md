@@ -1,5 +1,5 @@
 # hello-world
-the recommended name was "fluffy-invention" but im unconventional so i named it "hello-world"
+the recommended name was "fluffy-invention" 
 ## i JUST learnt md shortcuts 
-so here we _gooooo_
+_gooooo_
 
